@@ -1,0 +1,15 @@
+Most of the population resides in the northern hemisphere. Its clear the best sample resides in the Northern Hemisphere. 
+
+Tempature: 
+The max tempature seems to increase the closer you reach the equator showing a negative relationship in the Northern Hemisphere.
+The tempature decreases away from the equator showing a positive relationship in the southern hemisphere. 
+
+Humidity:
+Humidity in the Northen Hemisphere has no relationship to humidity. 
+The same goes for the Southern hemisphere with very little correlation between Latitude -90 to 0. 
+
+Cloudiness: 
+Cloudiness has nothing to do with the location as there is almost no relationship. 
+
+Wind Speed: 
+Wind speed seems to average 0 to 20 mph but are not affected by certain coordinates. 
