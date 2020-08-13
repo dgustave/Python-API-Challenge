@@ -1,0 +1,608 @@
+Start Data Retrieval on 08/11/20 estimated to be 608 inquiries.Currently Processing record number 1 of Set 1 | gamboma with City ID: 2259947) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=gamboma
+Currently Processing record number 2 of Set 1 | mount isa with City ID: 2065594) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=mount isa
+Currently Processing record number 3 of Set 1 | hermanus with City ID: 3366880) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=hermanus
+Currently Processing record number 4 of Set 1 | atuona with City ID: 4020109) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=atuona
+Currently Processing record number 5 of Set 1 | terrace with City ID: 6162949) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=terrace
+Currently Processing record number 6 of Set 1 | gat with City ID: 293842) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=gat
+Currently Processing record number 7 of Set 1 | hilo with City ID: 5855927) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=hilo
+Currently Processing record number 8 of Set 1 | milkovo with City ID: 2123278) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=milkovo
+Currently Processing record number 9 of Set 1 | castro with City ID: 3466704) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=castro
+Currently Processing record number 10 of Set 1 | pisco with City ID: 3932145) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=pisco
+Currently Processing record number 11 of Set 1 | cape town with City ID: 3369157) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=cape town
+Currently Processing record number 12 of Set 1 | albany with City ID: 5106841) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=albany
+Currently Processing record number 13 of Set 1 | esperance with City ID: 2071860) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=esperance
+Currently Processing record number 14 of Set 1 | manjakandriana with City ID: 1060673) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=manjakandriana
+Currently Processing record number 15 of Set 1 | jieshi with City ID: 1805857) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=jieshi
+City not found. Skipping... 
+Currently Processing record number 17 of Set 1 | butaritari with City ID: 2110227) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=butaritari
+Currently Processing record number 18 of Set 1 | teluk intan with City ID: 1735459) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=teluk intan
+Currently Processing record number 19 of Set 1 | ushuaia with City ID: 3833367) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=ushuaia
+Currently Processing record number 20 of Set 1 | busselton with City ID: 2075265) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=busselton
+Currently Processing record number 21 of Set 1 | cabo san lucas with City ID: 3985710) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=cabo san lucas
+Currently Processing record number 22 of Set 1 | chokurdakh with City ID: 2126123) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=chokurdakh
+Currently Processing record number 23 of Set 1 | svetlyy with City ID: 485660) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=svetlyy
+City not found. Skipping... 
+Currently Processing record number 25 of Set 1 | yambio with City ID: 363656) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=yambio
+Currently Processing record number 26 of Set 1 | mitsamiouli with City ID: 921786) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=mitsamiouli
+Currently Processing record number 27 of Set 1 | san vicente with City ID: 3428068) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=san vicente
+Currently Processing record number 28 of Set 1 | saldanha with City ID: 3361934) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=saldanha
+Currently Processing record number 29 of Set 1 | alofi with City ID: 4036284) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=alofi
+Currently Processing record number 30 of Set 1 | tuktoyaktuk with City ID: 6170031) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=tuktoyaktuk
+Currently Processing record number 31 of Set 1 | chamba with City ID: 1274848) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=chamba
+Currently Processing record number 32 of Set 1 | rikitea with City ID: 4030556) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=rikitea
+Currently Processing record number 33 of Set 1 | biltine with City ID: 244878) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=biltine
+Currently Processing record number 34 of Set 1 | dikson with City ID: 1507390) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=dikson
+Currently Processing record number 35 of Set 1 | vaini with City ID: 4032243) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=vaini
+Currently Processing record number 36 of Set 1 | mataura with City ID: 6201424) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=mataura
+Currently Processing record number 37 of Set 1 | mehamn with City ID: 778707) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=mehamn
+Currently Processing record number 38 of Set 1 | kodiak with City ID: 5866583) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kodiak
+Currently Processing record number 39 of Set 1 | nome with City ID: 5870133) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=nome
+Currently Processing record number 40 of Set 1 | zhob with City ID: 1162105) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=zhob
+Currently Processing record number 41 of Set 1 | puerto ayora with City ID: 3652764) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=puerto ayora
+Currently Processing record number 42 of Set 1 | new norfolk with City ID: 2155415) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=new norfolk
+Currently Processing record number 43 of Set 1 | presidencia roque saenz pena with City ID: 3840300) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=presidencia roque saenz pena
+Currently Processing record number 44 of Set 1 | narsaq with City ID: 3421719) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=narsaq
+Currently Processing record number 45 of Set 1 | port alfred with City ID: 964432) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=port alfred
+City not found. Skipping... 
+City not found. Skipping... 
+Currently Processing record number 48 of Set 1 | laguna with City ID: 5364271) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=laguna
+Currently Processing record number 49 of Set 1 | merthyr tydfil with City ID: 2642705) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=merthyr tydfil
+Currently Processing record number 50 of Set 1 | kapaa with City ID: 5848280) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kapaa
+Currently Processing record number 1 of Set 2 | bereda with City ID: 3105522) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=bereda
+Currently Processing record number 2 of Set 2 | klaksvik with City ID: 2618795) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=klaksvik
+Currently Processing record number 3 of Set 2 | airai with City ID: 1651810) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=airai
+Currently Processing record number 4 of Set 2 | manado with City ID: 1636544) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=manado
+Currently Processing record number 5 of Set 2 | longyearbyen with City ID: 2729907) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=longyearbyen
+Currently Processing record number 6 of Set 2 | yellowknife with City ID: 6185377) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=yellowknife
+Currently Processing record number 7 of Set 2 | avarua with City ID: 4035715) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=avarua
+Currently Processing record number 8 of Set 2 | vao with City ID: 2137773) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=vao
+Currently Processing record number 9 of Set 2 | matara with City ID: 1235846) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=matara
+Currently Processing record number 10 of Set 2 | kruisfontein with City ID: 986717) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kruisfontein
+Currently Processing record number 11 of Set 2 | leningradskiy with City ID: 2123814) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=leningradskiy
+Currently Processing record number 12 of Set 2 | qaqortoq with City ID: 3420846) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=qaqortoq
+Currently Processing record number 13 of Set 2 | alice springs with City ID: 2077895) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=alice springs
+Currently Processing record number 14 of Set 2 | namatanai with City ID: 2090021) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=namatanai
+Currently Processing record number 15 of Set 2 | ariquemes with City ID: 3665199) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=ariquemes
+City not found. Skipping... 
+Currently Processing record number 17 of Set 2 | bambous virieux with City ID: 1106677) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=bambous virieux
+Currently Processing record number 18 of Set 2 | svetlogorsk with City ID: 10722858) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=svetlogorsk
+Currently Processing record number 19 of Set 2 | south sioux city with City ID: 5079250) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=south sioux city
+City not found. Skipping... 
+Currently Processing record number 21 of Set 2 | port macquarie with City ID: 2152659) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=port macquarie
+Currently Processing record number 22 of Set 2 | ammon with City ID: 5583997) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=ammon
+Currently Processing record number 23 of Set 2 | kieta with City ID: 2094027) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kieta
+Currently Processing record number 24 of Set 2 | coruripe with City ID: 3465329) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=coruripe
+Currently Processing record number 25 of Set 2 | havoysund with City ID: 779622) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=havoysund
+Currently Processing record number 26 of Set 2 | punta arenas with City ID: 3874787) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=punta arenas
+Currently Processing record number 27 of Set 2 | georgetown with City ID: 1735106) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=georgetown
+Currently Processing record number 28 of Set 2 | melo with City ID: 3441702) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=melo
+Currently Processing record number 29 of Set 2 | saint-philippe with City ID: 935215) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=saint-philippe
+Currently Processing record number 30 of Set 2 | salalah with City ID: 286621) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=salalah
+Currently Processing record number 31 of Set 2 | pochutla with City ID: 3517970) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=pochutla
+Currently Processing record number 32 of Set 2 | rawson with City ID: 3839307) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=rawson
+Currently Processing record number 33 of Set 2 | port augusta with City ID: 2063056) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=port augusta
+City not found. Skipping... 
+Currently Processing record number 35 of Set 2 | boddam with City ID: 2655288) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=boddam
+Currently Processing record number 36 of Set 2 | jamestown with City ID: 5122534) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=jamestown
+Currently Processing record number 37 of Set 2 | iberia with City ID: 4328254) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=iberia
+Currently Processing record number 38 of Set 2 | iskateley with City ID: 866062) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=iskateley
+City not found. Skipping... 
+Currently Processing record number 40 of Set 2 | victoria with City ID: 1819729) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=victoria
+Currently Processing record number 41 of Set 2 | hobart with City ID: 2163355) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=hobart
+Currently Processing record number 42 of Set 2 | puerto penasco with City ID: 3991347) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=puerto penasco
+Currently Processing record number 43 of Set 2 | clyde river with City ID: 5924351) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=clyde river
+Currently Processing record number 44 of Set 2 | san andres with City ID: 3670218) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=san andres
+Currently Processing record number 45 of Set 2 | avera with City ID: 4231997) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=avera
+Currently Processing record number 46 of Set 2 | cascais with City ID: 2269594) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=cascais
+Currently Processing record number 47 of Set 2 | chhatak with City ID: 1185254) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=chhatak
+Currently Processing record number 48 of Set 2 | nanortalik with City ID: 3421765) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=nanortalik
+City not found. Skipping... 
+Currently Processing record number 50 of Set 2 | bontang with City ID: 1648186) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=bontang
+Currently Processing record number 1 of Set 3 | bosaso with City ID: 64013) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=bosaso
+Currently Processing record number 2 of Set 3 | ribeira grande with City ID: 3372707) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=ribeira grande
+Currently Processing record number 3 of Set 3 | sao filipe with City ID: 3374210) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=sao filipe
+Currently Processing record number 4 of Set 3 | hommelvik with City ID: 3151942) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=hommelvik
+Currently Processing record number 5 of Set 3 | chuy with City ID: 3443061) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=chuy
+Currently Processing record number 6 of Set 3 | acarau with City ID: 3408368) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=acarau
+City not found. Skipping... 
+Currently Processing record number 8 of Set 3 | bilibino with City ID: 2126682) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=bilibino
+Currently Processing record number 9 of Set 3 | carbonia with City ID: 2525362) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=carbonia
+Currently Processing record number 10 of Set 3 | hithadhoo with City ID: 1282256) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=hithadhoo
+Currently Processing record number 11 of Set 3 | aviles with City ID: 3129135) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=aviles
+City not found. Skipping... 
+Currently Processing record number 13 of Set 3 | shillong with City ID: 1256523) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=shillong
+Currently Processing record number 14 of Set 3 | hasaki with City ID: 2112802) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=hasaki
+Currently Processing record number 15 of Set 3 | yinchuan with City ID: 1786657) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=yinchuan
+Currently Processing record number 16 of Set 3 | qaanaaq with City ID: 3831208) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=qaanaaq
+Currently Processing record number 17 of Set 3 | rundu with City ID: 3353383) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=rundu
+Currently Processing record number 18 of Set 3 | placido de castro with City ID: 3924895) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=placido de castro
+Currently Processing record number 19 of Set 3 | estelle with City ID: 4323873) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=estelle
+Currently Processing record number 20 of Set 3 | buin with City ID: 3897774) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=buin
+Currently Processing record number 21 of Set 3 | balabac with City ID: 1728675) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=balabac
+Currently Processing record number 22 of Set 3 | lompoc with City ID: 5367788) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=lompoc
+Currently Processing record number 23 of Set 3 | lebu with City ID: 3883457) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=lebu
+Currently Processing record number 24 of Set 3 | havre-saint-pierre with City ID: 5972291) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=havre-saint-pierre
+Currently Processing record number 25 of Set 3 | plettenberg bay with City ID: 964712) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=plettenberg bay
+Currently Processing record number 26 of Set 3 | kalianget with City ID: 1641977) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kalianget
+Currently Processing record number 27 of Set 3 | sitka with City ID: 5557293) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=sitka
+Currently Processing record number 28 of Set 3 | ponta do sol with City ID: 2264557) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=ponta do sol
+Currently Processing record number 29 of Set 3 | cabedelo with City ID: 3404558) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=cabedelo
+Currently Processing record number 30 of Set 3 | urumqi with City ID: 1529102) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=urumqi
+Currently Processing record number 31 of Set 3 | bredasdorp with City ID: 1015776) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=bredasdorp
+Currently Processing record number 32 of Set 3 | valle nacional with City ID: 3518722) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=valle nacional
+Currently Processing record number 33 of Set 3 | preobrazheniye with City ID: 2017658) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=preobrazheniye
+Currently Processing record number 34 of Set 3 | along with City ID: 1278969) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=along
+Currently Processing record number 35 of Set 3 | torbay with City ID: 6167817) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=torbay
+Currently Processing record number 36 of Set 3 | dingle with City ID: 1714733) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=dingle
+Currently Processing record number 37 of Set 3 | awbari with City ID: 2219235) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=awbari
+Currently Processing record number 38 of Set 3 | sinop with City ID: 739598) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=sinop
+City not found. Skipping... 
+Currently Processing record number 40 of Set 3 | barrow with City ID: 5880054) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=barrow
+Currently Processing record number 41 of Set 3 | zeerust with City ID: 937136) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=zeerust
+Currently Processing record number 42 of Set 3 | hami with City ID: 1529484) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=hami
+Currently Processing record number 43 of Set 3 | mnogovershinnyy with City ID: 2019935) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=mnogovershinnyy
+Currently Processing record number 44 of Set 3 | pudozh with City ID: 504269) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=pudozh
+Currently Processing record number 45 of Set 3 | tabuk with City ID: 1684803) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=tabuk
+Currently Processing record number 46 of Set 3 | moron with City ID: 3430545) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=moron
+City not found. Skipping... 
+Currently Processing record number 48 of Set 3 | asmar with City ID: 1148205) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=asmar
+Currently Processing record number 49 of Set 3 | bluff with City ID: 2206939) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=bluff
+Currently Processing record number 50 of Set 3 | jiayuguan with City ID: 1280957) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=jiayuguan
+Currently Processing record number 1 of Set 4 | fortuna with City ID: 5563839) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=fortuna
+Currently Processing record number 2 of Set 4 | rurrenabaque with City ID: 3906209) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=rurrenabaque
+Currently Processing record number 3 of Set 4 | fairbanks with City ID: 5861897) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=fairbanks
+Currently Processing record number 4 of Set 4 | christchurch with City ID: 2192362) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=christchurch
+Currently Processing record number 5 of Set 4 | beruwala with City ID: 1249931) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=beruwala
+Currently Processing record number 6 of Set 4 | calama with City ID: 3897347) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=calama
+Currently Processing record number 7 of Set 4 | kaitangata with City ID: 2208248) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kaitangata
+Currently Processing record number 8 of Set 4 | byron bay with City ID: 2172880) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=byron bay
+City not found. Skipping... 
+Currently Processing record number 10 of Set 4 | saskylakh with City ID: 2017155) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=saskylakh
+Currently Processing record number 11 of Set 4 | nizhniy tsasuchey with City ID: 2019118) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=nizhniy tsasuchey
+Currently Processing record number 12 of Set 4 | maracacume with City ID: 3395497) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=maracacume
+Currently Processing record number 13 of Set 4 | nantucket with City ID: 4944903) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=nantucket
+Currently Processing record number 14 of Set 4 | lata with City ID: 2738381) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=lata
+Currently Processing record number 15 of Set 4 | ponta delgada with City ID: 3372783) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=ponta delgada
+Currently Processing record number 16 of Set 4 | tevriz with City ID: 1489661) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=tevriz
+Currently Processing record number 17 of Set 4 | upernavik with City ID: 3418910) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=upernavik
+Currently Processing record number 18 of Set 4 | dunedin with City ID: 2191562) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=dunedin
+Currently Processing record number 19 of Set 4 | villa rica with City ID: 4228452) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=villa rica
+Currently Processing record number 20 of Set 4 | meulaboh with City ID: 1214488) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=meulaboh
+Currently Processing record number 21 of Set 4 | baykit with City ID: 1510689) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=baykit
+Currently Processing record number 22 of Set 4 | khatanga with City ID: 2022572) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=khatanga
+City not found. Skipping... 
+Currently Processing record number 24 of Set 4 | juneau with City ID: 5554072) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=juneau
+Currently Processing record number 25 of Set 4 | rondonopolis with City ID: 3450909) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=rondonopolis
+Currently Processing record number 26 of Set 4 | kahului with City ID: 5847411) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kahului
+Currently Processing record number 27 of Set 4 | norman wells with City ID: 6089245) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=norman wells
+Currently Processing record number 28 of Set 4 | xichang with City ID: 1789647) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=xichang
+Currently Processing record number 29 of Set 4 | anaconda with City ID: 5637146) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=anaconda
+Currently Processing record number 30 of Set 4 | nago with City ID: 1856068) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=nago
+Currently Processing record number 31 of Set 4 | primorsk with City ID: 696292) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=primorsk
+Currently Processing record number 32 of Set 4 | akdepe with City ID: 601551) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=akdepe
+Currently Processing record number 33 of Set 4 | provideniya with City ID: 4031574) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=provideniya
+Currently Processing record number 34 of Set 4 | sharjah with City ID: 292672) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=sharjah
+Currently Processing record number 35 of Set 4 | ancud with City ID: 3899695) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=ancud
+Currently Processing record number 36 of Set 4 | constitucion with City ID: 3893726) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=constitucion
+Currently Processing record number 37 of Set 4 | port hardy with City ID: 6111862) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=port hardy
+Currently Processing record number 38 of Set 4 | severo-yeniseyskiy with City ID: 1492566) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=severo-yeniseyskiy
+Currently Processing record number 39 of Set 4 | kochubey with City ID: 868355) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kochubey
+Currently Processing record number 40 of Set 4 | roald with City ID: 3141667) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=roald
+Currently Processing record number 41 of Set 4 | high rock with City ID: 3572189) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=high rock
+Currently Processing record number 42 of Set 4 | cidreira with City ID: 3466165) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=cidreira
+Currently Processing record number 43 of Set 4 | limon with City ID: 3622247) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=limon
+Currently Processing record number 44 of Set 4 | tyulgan with City ID: 479871) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=tyulgan
+Currently Processing record number 45 of Set 4 | shimoda with City ID: 1852357) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=shimoda
+Currently Processing record number 46 of Set 4 | nikolskoye with City ID: 546105) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=nikolskoye
+Currently Processing record number 47 of Set 4 | willmar with City ID: 5052916) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=willmar
+Currently Processing record number 48 of Set 4 | suntar with City ID: 2015913) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=suntar
+Currently Processing record number 49 of Set 4 | novo aripuana with City ID: 3663142) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=novo aripuana
+Currently Processing record number 50 of Set 4 | saint george with City ID: 5546220) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=saint george
+Currently Processing record number 1 of Set 5 | huicungo with City ID: 3696267) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=huicungo
+Currently Processing record number 2 of Set 5 | victor harbor with City ID: 2059470) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=victor harbor
+Currently Processing record number 3 of Set 5 | half moon bay with City ID: 5354943) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=half moon bay
+Currently Processing record number 4 of Set 5 | lorengau with City ID: 2092164) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=lorengau
+Currently Processing record number 5 of Set 5 | pevek with City ID: 2122090) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=pevek
+Currently Processing record number 6 of Set 5 | lazaro cardenas with City ID: 4026082) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=lazaro cardenas
+Currently Processing record number 7 of Set 5 | arraial do cabo with City ID: 3471451) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=arraial do cabo
+Currently Processing record number 8 of Set 5 | volgorechensk with City ID: 472750) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=volgorechensk
+Currently Processing record number 9 of Set 5 | imeni poliny osipenko with City ID: 2023584) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=imeni poliny osipenko
+Currently Processing record number 10 of Set 5 | crotone with City ID: 2524881) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=crotone
+Currently Processing record number 11 of Set 5 | dalianwan with City ID: 1921372) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=dalianwan
+Currently Processing record number 12 of Set 5 | ishigaki with City ID: 1861416) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=ishigaki
+Currently Processing record number 13 of Set 5 | azogues with City ID: 3660434) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=azogues
+Currently Processing record number 14 of Set 5 | east london with City ID: 1006984) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=east london
+Currently Processing record number 15 of Set 5 | secunda with City ID: 956767) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=secunda
+Currently Processing record number 16 of Set 5 | totness with City ID: 3382867) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=totness
+Currently Processing record number 17 of Set 5 | ikalamavony with City ID: 1064258) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=ikalamavony
+Currently Processing record number 18 of Set 5 | almaznyy with City ID: 582447) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=almaznyy
+Currently Processing record number 19 of Set 5 | lafiagi with City ID: 2332504) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=lafiagi
+Currently Processing record number 20 of Set 5 | mahebourg with City ID: 934322) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=mahebourg
+Currently Processing record number 21 of Set 5 | road town with City ID: 3577430) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=road town
+Currently Processing record number 22 of Set 5 | hofn with City ID: 2630299) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=hofn
+City not found. Skipping... 
+Currently Processing record number 24 of Set 5 | saint-georges with City ID: 3579925) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=saint-georges
+Currently Processing record number 25 of Set 5 | samarkand with City ID: 1216265) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=samarkand
+Currently Processing record number 26 of Set 5 | luganville with City ID: 2136150) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=luganville
+Currently Processing record number 27 of Set 5 | geraldton with City ID: 2070998) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=geraldton
+Currently Processing record number 28 of Set 5 | petropavlovsk-kamchatskiy with City ID: 2122104) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=petropavlovsk-kamchatskiy
+Currently Processing record number 29 of Set 5 | banjar with City ID: 1650232) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=banjar
+Currently Processing record number 30 of Set 5 | pacific grove with City ID: 5380437) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=pacific grove
+Currently Processing record number 31 of Set 5 | itarema with City ID: 3393692) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=itarema
+Currently Processing record number 32 of Set 5 | mabaruma with City ID: 3377301) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=mabaruma
+Currently Processing record number 33 of Set 5 | gurupi with City ID: 3461724) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=gurupi
+Currently Processing record number 34 of Set 5 | poro with City ID: 1692901) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=poro
+Currently Processing record number 35 of Set 5 | itoman with City ID: 1861280) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=itoman
+Currently Processing record number 36 of Set 5 | kamenka with City ID: 553766) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kamenka
+City not found. Skipping... 
+Currently Processing record number 38 of Set 5 | laem sing with City ID: 1609278) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=laem sing
+Currently Processing record number 39 of Set 5 | lingyuan with City ID: 2036075) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=lingyuan
+Currently Processing record number 40 of Set 5 | altay with City ID: 1529651) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=altay
+Currently Processing record number 41 of Set 5 | boyolangu with City ID: 1648082) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=boyolangu
+Currently Processing record number 42 of Set 5 | zyryanka with City ID: 2119283) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=zyryanka
+City not found. Skipping... 
+Currently Processing record number 44 of Set 5 | dois vizinhos with City ID: 3464579) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=dois vizinhos
+Currently Processing record number 45 of Set 5 | cortes with City ID: 6359626) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=cortes
+Currently Processing record number 46 of Set 5 | mardin with City ID: 304797) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=mardin
+Currently Processing record number 47 of Set 5 | muros with City ID: 3115824) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=muros
+Currently Processing record number 48 of Set 5 | kathmandu with City ID: 1283240) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kathmandu
+Currently Processing record number 49 of Set 5 | pierre with City ID: 5767918) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=pierre
+Currently Processing record number 50 of Set 5 | conde with City ID: 3385077) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=conde
+Currently Processing record number 1 of Set 6 | maxixe with City ID: 1039536) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=maxixe
+Currently Processing record number 2 of Set 6 | garelochhead with City ID: 2648877) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=garelochhead
+Currently Processing record number 3 of Set 6 | walvis bay with City ID: 3359638) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=walvis bay
+Currently Processing record number 4 of Set 6 | krasnokamensk with City ID: 2021618) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=krasnokamensk
+Currently Processing record number 5 of Set 6 | codrington with City ID: 2171099) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=codrington
+Currently Processing record number 6 of Set 6 | ukiah with City ID: 5404476) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=ukiah
+Currently Processing record number 7 of Set 6 | saint-augustin with City ID: 6137462) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=saint-augustin
+Currently Processing record number 8 of Set 6 | liptovsky mikulas with City ID: 3059050) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=liptovsky mikulas
+Currently Processing record number 9 of Set 6 | borzya with City ID: 2026126) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=borzya
+Currently Processing record number 10 of Set 6 | wakkanai with City ID: 2127515) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=wakkanai
+Currently Processing record number 11 of Set 6 | kangaatsiaq with City ID: 3422683) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kangaatsiaq
+Currently Processing record number 12 of Set 6 | destin with City ID: 4153188) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=destin
+Currently Processing record number 13 of Set 6 | ivanivka with City ID: 707453) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=ivanivka
+Currently Processing record number 14 of Set 6 | martapura with City ID: 1636022) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=martapura
+Currently Processing record number 15 of Set 6 | sarandi with City ID: 3447998) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=sarandi
+Currently Processing record number 16 of Set 6 | mount gambier with City ID: 2156643) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=mount gambier
+City not found. Skipping... 
+Currently Processing record number 18 of Set 6 | quatre cocos with City ID: 1106643) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=quatre cocos
+Currently Processing record number 19 of Set 6 | bilma with City ID: 2446796) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=bilma
+Currently Processing record number 20 of Set 6 | flinders with City ID: 6255012) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=flinders
+Currently Processing record number 21 of Set 6 | makakilo city with City ID: 5850554) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=makakilo city
+Currently Processing record number 22 of Set 6 | souillac with City ID: 933995) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=souillac
+Currently Processing record number 23 of Set 6 | atar with City ID: 2381334) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=atar
+Currently Processing record number 24 of Set 6 | talnakh with City ID: 1490256) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=talnakh
+Currently Processing record number 25 of Set 6 | vanavara with City ID: 2013727) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=vanavara
+Currently Processing record number 26 of Set 6 | bethel with City ID: 5282297) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=bethel
+Currently Processing record number 27 of Set 6 | carnarvon with City ID: 2074865) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=carnarvon
+Currently Processing record number 28 of Set 6 | batemans bay with City ID: 2176639) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=batemans bay
+Currently Processing record number 29 of Set 6 | mar del plata with City ID: 3430863) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=mar del plata
+Currently Processing record number 30 of Set 6 | kavieng with City ID: 2094342) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kavieng
+Currently Processing record number 31 of Set 6 | haines junction with City ID: 5969025) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=haines junction
+Currently Processing record number 32 of Set 6 | luderitz with City ID: 3355672) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=luderitz
+Currently Processing record number 33 of Set 6 | ginda with City ID: 1253628) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=ginda
+City not found. Skipping... 
+Currently Processing record number 35 of Set 6 | bandundu with City ID: 2317397) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=bandundu
+Currently Processing record number 36 of Set 6 | oakland with City ID: 5004223) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=oakland
+Currently Processing record number 37 of Set 6 | labuhan with City ID: 8079926) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=labuhan
+Currently Processing record number 38 of Set 6 | mezen with City ID: 527321) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=mezen
+Currently Processing record number 39 of Set 6 | inhambane with City ID: 1045114) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=inhambane
+Currently Processing record number 40 of Set 6 | umm lajj with City ID: 100926) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=umm lajj
+Currently Processing record number 41 of Set 6 | cayenne with City ID: 3382160) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=cayenne
+Currently Processing record number 42 of Set 6 | biak with City ID: 1637001) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=biak
+Currently Processing record number 43 of Set 6 | dachnoye with City ID: 567312) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=dachnoye
+Currently Processing record number 44 of Set 6 | berdigestyakh with City ID: 2026861) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=berdigestyakh
+Currently Processing record number 45 of Set 6 | nerchinskiy zavod with City ID: 2019323) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=nerchinskiy zavod
+Currently Processing record number 46 of Set 6 | abu samrah with City ID: 172515) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=abu samrah
+Currently Processing record number 47 of Set 6 | brae with City ID: 2654970) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=brae
+Currently Processing record number 48 of Set 6 | isangel with City ID: 2136825) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=isangel
+Currently Processing record number 49 of Set 6 | otjimbingwe with City ID: 3353871) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=otjimbingwe
+Currently Processing record number 50 of Set 6 | san juan tecuaco with City ID: 3589880) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=san juan tecuaco
+Currently Processing record number 1 of Set 7 | smithers with City ID: 6149996) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=smithers
+Currently Processing record number 2 of Set 7 | hutchinson with City ID: 4273299) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=hutchinson
+City not found. Skipping... 
+Currently Processing record number 4 of Set 7 | aberdeen with City ID: 2657832) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=aberdeen
+Currently Processing record number 5 of Set 7 | sungairaya with City ID: 1625908) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=sungairaya
+Currently Processing record number 6 of Set 7 | dhidhdhoo with City ID: 1337612) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=dhidhdhoo
+Currently Processing record number 7 of Set 7 | port lincoln with City ID: 2063036) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=port lincoln
+Currently Processing record number 8 of Set 7 | nanning with City ID: 1799869) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=nanning
+Currently Processing record number 9 of Set 7 | bandarbeyla with City ID: 64814) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=bandarbeyla
+Currently Processing record number 10 of Set 7 | ous with City ID: 1495812) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=ous
+Currently Processing record number 11 of Set 7 | bulgan with City ID: 2032201) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=bulgan
+Currently Processing record number 12 of Set 7 | zhifang with City ID: 1784543) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=zhifang
+Currently Processing record number 13 of Set 7 | cherskiy with City ID: 2126199) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=cherskiy
+Currently Processing record number 14 of Set 7 | candido de abreu with City ID: 3467545) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=candido de abreu
+Currently Processing record number 15 of Set 7 | saint anthony with City ID: 5044290) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=saint anthony
+Currently Processing record number 16 of Set 7 | adre with City ID: 245669) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=adre
+Currently Processing record number 17 of Set 7 | chake chake with City ID: 160677) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=chake chake
+City not found. Skipping... 
+Currently Processing record number 19 of Set 7 | shyryayeve with City ID: 694016) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=shyryayeve
+Currently Processing record number 20 of Set 7 | yeniseysk with City ID: 1485997) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=yeniseysk
+Currently Processing record number 21 of Set 7 | rocha with City ID: 3440777) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=rocha
+Currently Processing record number 22 of Set 7 | qinggang with City ID: 2035325) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=qinggang
+Currently Processing record number 23 of Set 7 | boulder with City ID: 5574999) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=boulder
+Currently Processing record number 24 of Set 7 | amahai with City ID: 1651591) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=amahai
+Currently Processing record number 25 of Set 7 | richards bay with City ID: 962367) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=richards bay
+Currently Processing record number 26 of Set 7 | languyan with City ID: 1707511) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=languyan
+Currently Processing record number 27 of Set 7 | maarianhamina with City ID: 3041732) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=maarianhamina
+Currently Processing record number 28 of Set 7 | yilan with City ID: 1674199) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=yilan
+City not found. Skipping... 
+Currently Processing record number 30 of Set 7 | thompson with City ID: 6165406) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=thompson
+Currently Processing record number 31 of Set 7 | nokaneng with City ID: 933211) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=nokaneng
+Currently Processing record number 32 of Set 7 | dudinka with City ID: 1507116) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=dudinka
+Currently Processing record number 33 of Set 7 | awjilah with City ID: 88533) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=awjilah
+Currently Processing record number 34 of Set 7 | emba with City ID: 609924) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=emba
+Currently Processing record number 35 of Set 7 | pundaguitan with City ID: 1698289) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=pundaguitan
+Currently Processing record number 36 of Set 7 | dukat with City ID: 2125906) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=dukat
+City not found. Skipping... 
+Currently Processing record number 38 of Set 7 | san cristobal with City ID: 3628473) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=san cristobal
+Currently Processing record number 39 of Set 7 | bonthe with City ID: 2409914) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=bonthe
+City not found. Skipping... 
+Currently Processing record number 41 of Set 7 | waspan with City ID: 3615730) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=waspan
+Currently Processing record number 42 of Set 7 | hovd with City ID: 1516048) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=hovd
+Currently Processing record number 43 of Set 7 | galle with City ID: 1246294) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=galle
+Currently Processing record number 44 of Set 7 | faya with City ID: 110690) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=faya
+Currently Processing record number 45 of Set 7 | garoua boulai with City ID: 2231319) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=garoua boulai
+Currently Processing record number 46 of Set 7 | atambua with City ID: 1651103) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=atambua
+Currently Processing record number 47 of Set 7 | tasiilaq with City ID: 3424607) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=tasiilaq
+Currently Processing record number 48 of Set 7 | talaya with City ID: 2120769) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=talaya
+City not found. Skipping... 
+Currently Processing record number 50 of Set 7 | chosica with City ID: 3943423) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=chosica
+Currently Processing record number 1 of Set 8 | inirida with City ID: 3671450) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=inirida
+Currently Processing record number 2 of Set 8 | ilulissat with City ID: 3423146) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=ilulissat
+Currently Processing record number 3 of Set 8 | chadiza with City ID: 921028) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=chadiza
+Currently Processing record number 4 of Set 8 | bathsheba with City ID: 3374083) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=bathsheba
+Currently Processing record number 5 of Set 8 | quang ngai with City ID: 1568770) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=quang ngai
+Currently Processing record number 6 of Set 8 | kununurra with City ID: 2068110) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kununurra
+Currently Processing record number 7 of Set 8 | fort nelson with City ID: 5955902) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=fort nelson
+City not found. Skipping... 
+Currently Processing record number 9 of Set 8 | mayo with City ID: 4362001) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=mayo
+Currently Processing record number 10 of Set 8 | mocuba with City ID: 1024312) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=mocuba
+Currently Processing record number 11 of Set 8 | verkhnevilyuysk with City ID: 2013639) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=verkhnevilyuysk
+Currently Processing record number 12 of Set 8 | taywarah with City ID: 1122464) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=taywarah
+Currently Processing record number 13 of Set 8 | biga with City ID: 750605) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=biga
+Currently Processing record number 14 of Set 8 | conceicao da barra with City ID: 3465769) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=conceicao da barra
+Currently Processing record number 15 of Set 8 | jardim with City ID: 3460087) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=jardim
+City not found. Skipping... 
+Currently Processing record number 17 of Set 8 | parabel with City ID: 1495586) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=parabel
+Currently Processing record number 18 of Set 8 | santa isabel do rio negro with City ID: 3662489) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=santa isabel do rio negro
+City not found. Skipping... 
+Currently Processing record number 20 of Set 8 | axim with City ID: 2303611) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=axim
+Currently Processing record number 21 of Set 8 | sao miguel do araguaia with City ID: 3448455) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=sao miguel do araguaia
+City not found. Skipping... 
+Currently Processing record number 23 of Set 8 | dondo with City ID: 1024696) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=dondo
+Currently Processing record number 24 of Set 8 | wanning with City ID: 1791779) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=wanning
+Currently Processing record number 25 of Set 8 | faanui with City ID: 4034551) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=faanui
+Currently Processing record number 26 of Set 8 | adrar with City ID: 2381972) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=adrar
+Currently Processing record number 27 of Set 8 | beringovskiy with City ID: 2126710) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=beringovskiy
+City not found. Skipping... 
+Currently Processing record number 29 of Set 8 | lasa with City ID: 3175096) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=lasa
+Currently Processing record number 30 of Set 8 | te anau with City ID: 2181625) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=te anau
+Currently Processing record number 31 of Set 8 | machilipatnam with City ID: 1264637) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=machilipatnam
+Currently Processing record number 32 of Set 8 | gigmoto with City ID: 1712961) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=gigmoto
+Currently Processing record number 33 of Set 8 | tessalit with City ID: 2449893) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=tessalit
+Currently Processing record number 34 of Set 8 | pangnirtung with City ID: 6096551) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=pangnirtung
+Currently Processing record number 35 of Set 8 | sao jose do belmonte with City ID: 3388440) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=sao jose do belmonte
+Currently Processing record number 36 of Set 8 | shetpe with City ID: 608324) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=shetpe
+Currently Processing record number 37 of Set 8 | lovozero with City ID: 533933) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=lovozero
+City not found. Skipping... 
+Currently Processing record number 39 of Set 8 | loukhi with City ID: 533964) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=loukhi
+Currently Processing record number 40 of Set 8 | caravelas with City ID: 3466980) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=caravelas
+Currently Processing record number 41 of Set 8 | kathu with City ID: 1153035) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kathu
+Currently Processing record number 42 of Set 8 | atikokan with City ID: 5888001) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=atikokan
+Currently Processing record number 43 of Set 8 | san jose with City ID: 5392171) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=san jose
+Currently Processing record number 44 of Set 8 | marinette with City ID: 5261852) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=marinette
+City not found. Skipping... 
+Currently Processing record number 46 of Set 8 | iqaluit with City ID: 5983720) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=iqaluit
+Currently Processing record number 47 of Set 8 | tarakan with City ID: 1624725) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=tarakan
+Currently Processing record number 48 of Set 8 | yining with City ID: 1786538) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=yining
+Currently Processing record number 49 of Set 8 | dalvik with City ID: 2632287) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=dalvik
+Currently Processing record number 50 of Set 8 | bengkulu with City ID: 1649150) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=bengkulu
+Currently Processing record number 1 of Set 9 | vostok with City ID: 2013279) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=vostok
+Currently Processing record number 2 of Set 9 | villa union with City ID: 3980125) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=villa union
+Currently Processing record number 3 of Set 9 | gedo with City ID: 337083) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=gedo
+Currently Processing record number 4 of Set 9 | kudahuvadhoo with City ID: 1337607) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kudahuvadhoo
+Currently Processing record number 5 of Set 9 | linares with City ID: 3883167) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=linares
+City not found. Skipping... 
+Currently Processing record number 7 of Set 9 | jardim de piranhas with City ID: 3397562) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=jardim de piranhas
+Currently Processing record number 8 of Set 9 | novopskov with City ID: 699311) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=novopskov
+Currently Processing record number 9 of Set 9 | katsuura with City ID: 2112309) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=katsuura
+Currently Processing record number 10 of Set 9 | grindavik with City ID: 3416888) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=grindavik
+Currently Processing record number 11 of Set 9 | barcelos with City ID: 2742416) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=barcelos
+Currently Processing record number 12 of Set 9 | tshane with City ID: 933726) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=tshane
+Currently Processing record number 13 of Set 9 | tshikapa with City ID: 204953) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=tshikapa
+Currently Processing record number 14 of Set 9 | truro with City ID: 2635412) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=truro
+Currently Processing record number 15 of Set 9 | alta floresta with City ID: 6316343) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=alta floresta
+Currently Processing record number 16 of Set 9 | datong with City ID: 2037799) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=datong
+City not found. Skipping... 
+Currently Processing record number 18 of Set 9 | menongue with City ID: 3347353) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=menongue
+Currently Processing record number 19 of Set 9 | vila velha with City ID: 3445026) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=vila velha
+Currently Processing record number 20 of Set 9 | port elizabeth with City ID: 964420) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=port elizabeth
+Currently Processing record number 21 of Set 9 | aguilar de la frontera with City ID: 2514392) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=aguilar de la frontera
+Currently Processing record number 22 of Set 9 | guerrero negro with City ID: 4021858) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=guerrero negro
+City not found. Skipping... 
+Currently Processing record number 24 of Set 9 | los llanos de aridane with City ID: 2514651) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=los llanos de aridane
+Currently Processing record number 25 of Set 9 | kearney with City ID: 5071348) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kearney
+Currently Processing record number 26 of Set 9 | ugep with City ID: 2320831) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=ugep
+Currently Processing record number 27 of Set 9 | burnie with City ID: 2173125) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=burnie
+Currently Processing record number 28 of Set 9 | anori with City ID: 3665315) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=anori
+Currently Processing record number 29 of Set 9 | manitouwadge with City ID: 6065253) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=manitouwadge
+Currently Processing record number 30 of Set 9 | luebo with City ID: 210939) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=luebo
+Currently Processing record number 31 of Set 9 | badulla with City ID: 1250615) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=badulla
+Currently Processing record number 32 of Set 9 | galeana with City ID: 4006081) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=galeana
+Currently Processing record number 33 of Set 9 | bubaque with City ID: 2374583) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=bubaque
+City not found. Skipping... 
+Currently Processing record number 35 of Set 9 | tuatapere with City ID: 2180815) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=tuatapere
+Currently Processing record number 36 of Set 9 | portland with City ID: 5746545) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=portland
+Currently Processing record number 37 of Set 9 | berga with City ID: 3161733) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=berga
+Currently Processing record number 38 of Set 9 | namibe with City ID: 3347019) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=namibe
+Currently Processing record number 39 of Set 9 | krasnoselkup with City ID: 1502073) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=krasnoselkup
+Currently Processing record number 40 of Set 9 | teguise with City ID: 2510573) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=teguise
+Currently Processing record number 41 of Set 9 | husavik with City ID: 2629833) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=husavik
+Currently Processing record number 42 of Set 9 | puerto colombia with City ID: 3671497) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=puerto colombia
+Currently Processing record number 43 of Set 9 | vestmannaeyjar with City ID: 3412093) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=vestmannaeyjar
+Currently Processing record number 44 of Set 9 | auki with City ID: 2109701) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=auki
+City not found. Skipping... 
+Currently Processing record number 46 of Set 9 | lagoa with City ID: 3372964) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=lagoa
+Currently Processing record number 47 of Set 9 | nguruka with City ID: 151567) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=nguruka
+Currently Processing record number 48 of Set 9 | lianzhou with City ID: 1803841) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=lianzhou
+Currently Processing record number 49 of Set 9 | sorong with City ID: 1626542) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=sorong
+Currently Processing record number 50 of Set 9 | yulara with City ID: 6355222) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=yulara
+Currently Processing record number 1 of Set 10 | dzhebariki-khaya with City ID: 2024626) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=dzhebariki-khaya
+Currently Processing record number 2 of Set 10 | san patricio with City ID: 3985168) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=san patricio
+Currently Processing record number 3 of Set 10 | komsomolskiy with City ID: 1513491) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=komsomolskiy
+City not found. Skipping... 
+Currently Processing record number 5 of Set 10 | chilliwack with City ID: 5921357) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=chilliwack
+Currently Processing record number 6 of Set 10 | tabou with City ID: 2281120) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=tabou
+Currently Processing record number 7 of Set 10 | krasnyy oktyabr with City ID: 541549) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=krasnyy oktyabr
+Currently Processing record number 8 of Set 10 | bosanska krupa with City ID: 3203653) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=bosanska krupa
+Currently Processing record number 9 of Set 10 | pauini with City ID: 3662927) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=pauini
+Currently Processing record number 10 of Set 10 | olafsvik with City ID: 3414079) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=olafsvik
+Currently Processing record number 11 of Set 10 | thinadhoo with City ID: 1337610) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=thinadhoo
+Currently Processing record number 12 of Set 10 | urozhaynoye with City ID: 478640) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=urozhaynoye
+City not found. Skipping... 
+Currently Processing record number 14 of Set 10 | kiomboi with City ID: 157198) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kiomboi
+Currently Processing record number 15 of Set 10 | methoni with City ID: 257122) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=methoni
+Currently Processing record number 16 of Set 10 | lac du bonnet with City ID: 6014443) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=lac du bonnet
+Currently Processing record number 17 of Set 10 | noumea with City ID: 2139521) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=noumea
+Currently Processing record number 18 of Set 10 | vesele with City ID: 689736) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=vesele
+Currently Processing record number 19 of Set 10 | manokwari with City ID: 1636308) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=manokwari
+Currently Processing record number 20 of Set 10 | muscat with City ID: 287286) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=muscat
+Currently Processing record number 21 of Set 10 | benavente with City ID: 3128291) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=benavente
+Currently Processing record number 22 of Set 10 | touros with City ID: 3386213) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=touros
+Currently Processing record number 23 of Set 10 | ust-tsilma with City ID: 477940) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=ust-tsilma
+Currently Processing record number 24 of Set 10 | chico with City ID: 5336269) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=chico
+Currently Processing record number 25 of Set 10 | esil with City ID: 1524296) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=esil
+Currently Processing record number 26 of Set 10 | anloga with City ID: 2304548) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=anloga
+Currently Processing record number 27 of Set 10 | curvelo with City ID: 3464891) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=curvelo
+Currently Processing record number 28 of Set 10 | kaz with City ID: 1504081) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kaz
+Currently Processing record number 29 of Set 10 | high level with City ID: 5975004) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=high level
+Currently Processing record number 30 of Set 10 | kaduqli with City ID: 373141) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kaduqli
+City not found. Skipping... 
+Currently Processing record number 32 of Set 10 | matay with City ID: 352628) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=matay
+Currently Processing record number 33 of Set 10 | goundi with City ID: 2431736) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=goundi
+Currently Processing record number 34 of Set 10 | loudi with City ID: 1802238) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=loudi
+Currently Processing record number 35 of Set 10 | diamantino with City ID: 3464724) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=diamantino
+Currently Processing record number 36 of Set 10 | samarai with City ID: 2132606) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=samarai
+Currently Processing record number 37 of Set 10 | launceston with City ID: 2160517) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=launceston
+Currently Processing record number 38 of Set 10 | college with City ID: 5859699) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=college
+Currently Processing record number 39 of Set 10 | sekondi with City ID: 2294915) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=sekondi
+Currently Processing record number 40 of Set 10 | viedma with City ID: 3832899) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=viedma
+Currently Processing record number 41 of Set 10 | gasa with City ID: 281133) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=gasa
+Currently Processing record number 42 of Set 10 | effingham with City ID: 4193042) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=effingham
+Currently Processing record number 43 of Set 10 | aksarka with City ID: 1512019) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=aksarka
+Currently Processing record number 44 of Set 10 | hobyo with City ID: 57000) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=hobyo
+Currently Processing record number 45 of Set 10 | elko with City ID: 5703673) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=elko
+Currently Processing record number 46 of Set 10 | kushima with City ID: 1895695) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kushima
+Currently Processing record number 47 of Set 10 | ewa beach with City ID: 5855051) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=ewa beach
+Currently Processing record number 48 of Set 10 | rafai with City ID: 236524) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=rafai
+City not found. Skipping... 
+Currently Processing record number 50 of Set 10 | margate with City ID: 2643044) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=margate
+City not found. Skipping... 
+Currently Processing record number 2 of Set 11 | cervo with City ID: 3125287) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=cervo
+City not found. Skipping... 
+Currently Processing record number 4 of Set 11 | belaya gora with City ID: 2126785) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=belaya gora
+Currently Processing record number 5 of Set 11 | grand-santi with City ID: 3381538) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=grand-santi
+Currently Processing record number 6 of Set 11 | mianwali with City ID: 1170425) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=mianwali
+City not found. Skipping... 
+Currently Processing record number 8 of Set 11 | nassau with City ID: 5128316) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=nassau
+Currently Processing record number 9 of Set 11 | ahipara with City ID: 2194098) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=ahipara
+Currently Processing record number 10 of Set 11 | nuuk with City ID: 3421319) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=nuuk
+Currently Processing record number 11 of Set 11 | borgo san lorenzo with City ID: 3181754) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=borgo san lorenzo
+City not found. Skipping... 
+Currently Processing record number 13 of Set 11 | xuddur with City ID: 49747) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=xuddur
+Currently Processing record number 14 of Set 11 | necochea with City ID: 3430443) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=necochea
+Currently Processing record number 15 of Set 11 | kouango with City ID: 2385535) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kouango
+Currently Processing record number 16 of Set 11 | pozo colorado with City ID: 3437443) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=pozo colorado
+Currently Processing record number 17 of Set 11 | la romana with City ID: 3500957) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=la romana
+Currently Processing record number 18 of Set 11 | nalut with City ID: 2214432) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=nalut
+Currently Processing record number 19 of Set 11 | rabo de peixe with City ID: 3372745) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=rabo de peixe
+Currently Processing record number 20 of Set 11 | zhenhai with City ID: 1784648) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=zhenhai
+Currently Processing record number 21 of Set 11 | najran with City ID: 103630) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=najran
+Currently Processing record number 22 of Set 11 | pakokku with City ID: 1302439) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=pakokku
+Currently Processing record number 23 of Set 11 | kalabo with City ID: 915471) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kalabo
+Currently Processing record number 24 of Set 11 | alenquer with City ID: 3407980) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=alenquer
+Currently Processing record number 25 of Set 11 | caiaponia with City ID: 3468234) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=caiaponia
+Currently Processing record number 26 of Set 11 | galesong with City ID: 1644605) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=galesong
+Currently Processing record number 27 of Set 11 | ngunguru with City ID: 2186111) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=ngunguru
+Currently Processing record number 28 of Set 11 | jiuquan with City ID: 1279945) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=jiuquan
+Currently Processing record number 29 of Set 11 | marsh harbour with City ID: 3571913) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=marsh harbour
+Currently Processing record number 30 of Set 11 | taoudenni with City ID: 2450173) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=taoudenni
+Currently Processing record number 31 of Set 11 | tiksi with City ID: 2015306) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=tiksi
+Currently Processing record number 32 of Set 11 | abonnema with City ID: 2324433) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=abonnema
+Currently Processing record number 33 of Set 11 | opichen with City ID: 3522328) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=opichen
+Currently Processing record number 34 of Set 11 | syracuse with City ID: 2523082) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=syracuse
+Currently Processing record number 35 of Set 11 | livani with City ID: 457860) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=livani
+Currently Processing record number 36 of Set 11 | barranca with City ID: 3946820) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=barranca
+Currently Processing record number 37 of Set 11 | srandakan with City ID: 1626493) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=srandakan
+Currently Processing record number 38 of Set 11 | sistranda with City ID: 3139597) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=sistranda
+Currently Processing record number 39 of Set 11 | upata with City ID: 3625710) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=upata
+Currently Processing record number 40 of Set 11 | hof with City ID: 2902768) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=hof
+Currently Processing record number 41 of Set 11 | ila with City ID: 3133880) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=ila
+Currently Processing record number 42 of Set 11 | vila franca do campo with City ID: 3372472) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=vila franca do campo
+Currently Processing record number 43 of Set 11 | kommunar with City ID: 545788) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kommunar
+Currently Processing record number 44 of Set 11 | kavaratti with City ID: 1267390) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kavaratti
+Currently Processing record number 45 of Set 11 | sovetskiy with City ID: 1491230) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=sovetskiy
+City not found. Skipping... 
+Currently Processing record number 47 of Set 11 | barkhan with City ID: 1183307) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=barkhan
+Currently Processing record number 48 of Set 11 | liberal with City ID: 5445820) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=liberal
+Currently Processing record number 49 of Set 11 | biryusinsk with City ID: 1510041) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=biryusinsk
+Currently Processing record number 50 of Set 11 | severo-kurilsk with City ID: 2121385) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=severo-kurilsk
+Currently Processing record number 1 of Set 12 | prince rupert with City ID: 6113406) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=prince rupert
+Currently Processing record number 2 of Set 12 | santiago with City ID: 3871336) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=santiago
+Currently Processing record number 3 of Set 12 | kushmurun with City ID: 1519924) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kushmurun
+Currently Processing record number 4 of Set 12 | yar-sale with City ID: 1486321) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=yar-sale
+Currently Processing record number 5 of Set 12 | grand forks with City ID: 5059429) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=grand forks
+Currently Processing record number 6 of Set 12 | ust-kuyga with City ID: 2013921) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=ust-kuyga
+Currently Processing record number 7 of Set 12 | morondava with City ID: 1058381) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=morondava
+Currently Processing record number 8 of Set 12 | hongjiang with City ID: 1808106) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=hongjiang
+Currently Processing record number 9 of Set 12 | podhum with City ID: 3193008) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=podhum
+Currently Processing record number 10 of Set 12 | virginia beach with City ID: 4791259) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=virginia beach
+Currently Processing record number 11 of Set 12 | inta with City ID: 1505579) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=inta
+Currently Processing record number 12 of Set 12 | uromi with City ID: 2319668) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=uromi
+Currently Processing record number 13 of Set 12 | jalu with City ID: 86049) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=jalu
+Currently Processing record number 14 of Set 12 | puerto escondido with City ID: 3520994) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=puerto escondido
+Currently Processing record number 15 of Set 12 | knysna with City ID: 988698) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=knysna
+Currently Processing record number 16 of Set 12 | bani walid with City ID: 2218840) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=bani walid
+Currently Processing record number 17 of Set 12 | shubarshi with City ID: 608270) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=shubarshi
+Currently Processing record number 18 of Set 12 | ternate with City ID: 1624041) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=ternate
+Currently Processing record number 19 of Set 12 | kuala terengganu with City ID: 1734705) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=kuala terengganu
+Currently Processing record number 20 of Set 12 | doka with City ID: 376332) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=doka
+Currently Processing record number 21 of Set 12 | port blair with City ID: 1259385) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=port blair
+Currently Processing record number 22 of Set 12 | jumla with City ID: 1283285) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=jumla
+Currently Processing record number 23 of Set 12 | zapolyarnyy with City ID: 464790) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=zapolyarnyy
+Currently Processing record number 24 of Set 12 | valcourt with City ID: 6172998) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=valcourt
+Currently Processing record number 25 of Set 12 | coihaique with City ID: 3894426) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=coihaique
+City not found. Skipping... 
+Currently Processing record number 27 of Set 12 | sibolga with City ID: 1213855) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=sibolga
+Currently Processing record number 28 of Set 12 | santa cruz with City ID: 3904906) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=santa cruz
+Currently Processing record number 29 of Set 12 | baft with City ID: 390054) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=baft
+City not found. Skipping... 
+Currently Processing record number 31 of Set 12 | sao lourenco do oeste with City ID: 3448597) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=sao lourenco do oeste
+Currently Processing record number 32 of Set 12 | tapes with City ID: 3446880) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=tapes
+Currently Processing record number 33 of Set 12 | verkh-usugli with City ID: 2013459) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=verkh-usugli
+Currently Processing record number 34 of Set 12 | tengzhou with City ID: 1793036) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=tengzhou
+Currently Processing record number 35 of Set 12 | falavarjan with City ID: 418851) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=falavarjan
+City not found. Skipping... 
+City not found. Skipping... 
+Currently Processing record number 38 of Set 12 | havelock with City ID: 4470244) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=havelock
+City not found. Skipping... 
+City not found. Skipping... 
+Currently Processing record number 41 of Set 12 | tupik with City ID: 2014836) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=tupik
+Currently Processing record number 42 of Set 12 | vinh with City ID: 1562798) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=vinh
+City not found. Skipping... 
+Currently Processing record number 44 of Set 12 | tocopilla with City ID: 3869716) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=tocopilla
+Currently Processing record number 45 of Set 12 | vasylivka with City ID: 686729) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=vasylivka
+Currently Processing record number 46 of Set 12 | moree with City ID: 2156927) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=moree
+Currently Processing record number 47 of Set 12 | santo tomas with City ID: 1687534) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=santo tomas
+Currently Processing record number 48 of Set 12 | santa ines with City ID: 3389609) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=santa ines
+Currently Processing record number 49 of Set 12 | pitkyaranta with City ID: 509234) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=pitkyaranta
+Currently Processing record number 50 of Set 12 | ajdabiya with City ID: 89113) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=ajdabiya
+Currently Processing record number 1 of Set 13 | balkhash with City ID: 1525798) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=balkhash
+Currently Processing record number 2 of Set 13 | eyl with City ID: 60019) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=eyl
+Currently Processing record number 3 of Set 13 | veraval with City ID: 1253237) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=veraval
+City not found. Skipping... 
+Currently Processing record number 5 of Set 13 | arlit with City ID: 2447513) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=arlit
+Currently Processing record number 6 of Set 13 | chekhov with City ID: 569591) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=chekhov
+Currently Processing record number 7 of Set 13 | sisimiut with City ID: 3419842) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=sisimiut
+Currently Processing record number 8 of Set 13 | qui nhon with City ID: 1568574) #| the query URL: http://api.openweathermap.org/data/2.5/weather?appid=48cd2f4c6e1cc4ac15520e0f752a9eb5&units=imperial&q=qui nhon
